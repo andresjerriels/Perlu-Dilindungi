@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_news"
+        android:icon="@drawable/news_filled"
+        android:title="News"/>
+
+    <item
+        android:id="@+id/navigation_lokasi_vaksin"
+        android:icon="@drawable/location_filled"
+        android:title="Lokasi Vaksin"/>
+
+    <item
+        android:id="@+id/navigation_bookmark"
+        android:icon="@drawable/vector_1"
+        android:title="Bookmark"/>
+
+</menu>
