@@ -1,8 +1,8 @@
-# IF3210-2022-Android-71
+# Aplikasi Perlu Dilindungi
 
 Tugas Besar 1 - Android
 IF3210 Pengembangan Aplikasi pada Platform Khusus
-Aplikasi Perlu Dilindungi
+
 
 ## Deskripsi Aplikasi
 Aplikasi Perlu Dilindungi adalah aplikasi mobile yang didalamnya terdapat beberapa fitur fungsional seperti:
